@@ -4,11 +4,14 @@
 
 **Collineation**
 
-![](bird_collineation.gif)
+ <img src="bird_collineation.gif" width="400" height="400"/>
+
 
 **P3P**
 
-![](bird_P3P.gif)
+ <img src="bird_P3P.gif" width="400" height="400"/>
+
+
 
 **Pose Estimation for keypoints**
 
