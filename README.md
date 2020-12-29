@@ -2,7 +2,7 @@
 
 Results:
 
-![](FPN.PNG)
+![](bird_collineation.gif)
 
 ![](FPN.PNG)
 
