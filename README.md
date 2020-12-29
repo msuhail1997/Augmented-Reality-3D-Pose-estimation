@@ -10,7 +10,7 @@
 
 ![](bird_P3P.gif)
 
-**Pose Estimation with keypoints**
+**Pose Estimation for keypoints**
 
 ![](train_10.jpg)
 
