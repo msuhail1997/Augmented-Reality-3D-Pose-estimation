@@ -1,16 +1,16 @@
 # Augmented-Reality and 3D-Pose-estimation
 
-Results:
+**Results:**
 
-Collineation
+**Collineation**
 
 ![](bird_collineation.gif)
 
-P3P
+**P3P**
 
 ![](bird_P3P.gif)
 
-Pose Estimation with keypoints
+**Pose Estimation with keypoints**
 
 ![](FPN.PNG)
 
