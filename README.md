@@ -2,7 +2,11 @@
 
 Results:
 
+Collineation
+
 ![](bird_collineation.gif)
+
+P3P
 
 ![](bird_P3P.gif)
 
