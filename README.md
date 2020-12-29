@@ -4,7 +4,7 @@ Results:
 
 ![](bird_collineation.gif)
 
-![](FPN.PNG)
+![](bird_P3P.gif)
 
 Pose Estimation with keypoints
 
