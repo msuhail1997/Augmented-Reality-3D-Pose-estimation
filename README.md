@@ -15,14 +15,14 @@
 
 **Pose Estimation for keypoints**
 
- <img src="train_10.jpg" width="200" height="200"/>
+ <img src="train_10.jpg" width="350" height="300"/>
 
 
- <img src="train_13.jpg" width="200" height="200"/>
+ <img src="train_13.jpg" width="350" height="300"/>
 
 
- <img src="train_186.jpg" width="200" height="200"/>
+ <img src="train_136.jpg" width="350" height="300"/>
 
 
- <img src="train_18.jpg" width="200" height="200"/>
+ <img src="train_18.jpg" width="350" height="300"/>
 
